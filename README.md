@@ -1,4 +1,4 @@
-#__Rail fence ciphers__
+# __Rail fence ciphers__
 
 This program contains :
 1. Encryption of a message using the classical rail-fence cipher algorithm
